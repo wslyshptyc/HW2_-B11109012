@@ -1,2 +1,9 @@
 # HW2_-B11109012
-How to link Jira and GitHub
+
+### Recent Activities
+<!--START_SECTION:activity-->
+<!--END_section:activity-->
+
+### About Me
+<!--MYLINKS:START -->
+<!--MYLINKS:END -->
